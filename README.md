@@ -59,7 +59,7 @@ En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 
 # Flujo de trabajo: Detección de Inundaciones
 
-![image](Flujo de Trabajo Inundaciones.png)
+![image](Flujo1.png)
 
 # Flujo de trabajo: Índice de Vegetación
 ![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/Flujo%20de%20trabajo%20RVI.png)
