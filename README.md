@@ -8,8 +8,8 @@
 
 Según lo visto en clase, las microondas son un tipo de onda electromagnética perteneciente al espectro electromagnético. Generalmente tiene frecuencias entre 300 Mhz y 30 Ghz. Están situadas entre los rayos infrarrojos (cuya frecuencia es mayor) y las ondas de radio convencionales. Y la longitud de onda va aproximadamente desde 1 mm hasta 30 cm.
 
-![Imagen 1](Espectro.png) 
-En esta primer imagen, podemos observar cómo están distribuidas las longitudes de onda
+![Imagen 1](Longitud..png) 
+En esta primer imagen, podemos observar cómo funcionan las longitudes de onda
 
 
 En cuanto al espectro electromagnético, estas ondas se encuentran en una ventana atmosférica, esto permite que la señal se transmita hasta la superficie terrestre. Son precisamente estas ventanas atmosféricas el equivalente a las bandas.
