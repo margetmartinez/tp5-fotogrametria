@@ -40,6 +40,7 @@ Se muestra el funcionamiento de la constante dieléctrica, siendo las flechas gr
 Para poder entender y definir las bandas en RADAR es necesario retomar el concepto de longitud de banda. En el SAR también se definen las bandas acordes a la longitud de onda, pero en este solo capturan información en una banda determinada. Es la longitud de onda la que definirá la interacción de la señal con la superficie. En realidad son tres los parámetros del RADAR que tendrán influencia sobre las características de la señal retrodispersada: como ya se mencionó longitud de onda, la polarización y el ángulo de incidencia. 
 
 Las longitudes de onda o bandas más utilizadas son: 
+
 ![imagen](Cuadro.png)
 
 De las bandas anteriores las más utilizadas para aplicaciones ambientales son las bandas X (Agricultura, océano, radar de alta resolución), C (Océano, agricultura) y la L (Agricultura, gestión forestal, humedad del suelo). 
