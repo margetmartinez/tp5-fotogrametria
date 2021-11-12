@@ -4,7 +4,7 @@
 
 # Definición de conceptos
 
-## 1.Microondas
+## 1. Microondas
 
 Según lo visto en clase, las microondas son un tipo de onda electromagnética perteneciente al espectro electromagnético. Generalmente tiene frecuencias entre 300 Mhz y 30 Ghz. Están situadas entre los rayos infrarrojos (cuya frecuencia es mayor) y las ondas de radio convencionales. Y la longitud de onda va aproximadamente desde 1 mm hasta 30 cm.
 
@@ -21,7 +21,7 @@ A continuación, se presentan ilustraciones para ejemplificar mejor el concepto:
 
 La imagen nos ilustra la ubicación de las ondas de microondas en el espectro electromagnético. Las ventanas atmosféricas o bandas son una de las principales razones de la existencia de la teledetección.
 
-## 2.Retrodispersión y Constante dieléctrica
+## 2. Retrodispersión y Constante dieléctrica
 
 De acuerdo a lo visto en clase, la retrodispersión es lo que mide el sensor SAR. Esta es la energía de microondas que regresa al sensor SAR luego de interactuar con la superficie. Es la energía reflejada hacia el radar nuevamente. Por lo que la intensidad de la retrodispersión está relacionada directamente con el tipo de cobertura y las características que tenga esta. Por lo que al saber la intensidad de esta se puede evaluar el estado de las coberturas y las características de esta. Esta puede ser especular (superficies lisas/agua abierta), por volumen (dosel del bosque), por doble rebote (bosques/infraestructura) y rugosa (zonas agrícolas). 
 
@@ -35,19 +35,20 @@ Por otro lado, la constante dieléctrica es un parámetro de cobertura que indic
 
 Se muestra el funcionamiento de la constante dieléctrica, siendo las flechas grises, energía reflejada con menor intensidad debido a las características de la superficie.
 
-## 3.Bandas en RADAR para aplicaciones ambientales
+## 3. Bandas en RADAR para aplicaciones ambientales
 
 Para poder entender y definir las bandas en RADAR es necesario retomar el concepto de longitud de banda. En el SAR también se definen las bandas acordes a la longitud de onda, pero en este solo capturan información en una banda determinada. Es la longitud de onda la que definirá la interacción de la señal con la superficie. En realidad son tres los parámetros del RADAR que tendrán influencia sobre las características de la señal retrodispersada: como ya se mencionó longitud de onda, la polarización y el ángulo de incidencia. 
 
 Las longitudes de onda o bandas más utilizadas son: 
-![imagen]()
+![imagen](Cuadro.png)
 
 De las bandas anteriores las más utilizadas para aplicaciones ambientales son las bandas X (Agricultura, océano, radar de alta resolución), C (Océano, agricultura) y la L (Agricultura, gestión forestal, humedad del suelo). 
 
-[Imagen ]
-La imagen nos ilustra cómo en áreas de cobertura forestal la banda X penetrará la parte superior del dorsal de la vegetación. La banda C penetrará más profundamente y la banda L en la mayoría de los casos penetrará hasta llegar al suelo.
+![imagen](Cuadro.png)
 
-## 4.RADAR de Apertura Sintética
+Esta imagen nos ilustra cómo en áreas de cobertura forestal la banda X penetrará la parte superior del dorsal de la vegetación. La banda C penetrará más profundamente y la banda L en la mayoría de los casos penetrará hasta llegar al suelo.
+
+## 4. RADAR de Apertura Sintética
 
 El SAR es uno de los sensores que se utilizan para obtener imágenes de la superficie terrestre. Este envía pulsos electromagnéticos a la tierra con el fin de captar estas ondas una vez reflejadas por la superficie y con ello obtener imágenes del área que llega a iluminar. Este sensor no necesita otras fuentes de iluminación como la luz solar, que se necesita en los sensores ópticos. Por lo que se pueden operar las 24 horas del día y las ondas se encuentran en el espectro de las microondas. Pueden verse afectadas por la humedad. Por otro lado, una de sus características distintivas es la consecución de altas resoluciones en la dirección del movimiento del sensor mediante la síntesis de una antena de grandes dimensiones a partir de una antena real más pequeña.
 
