@@ -68,7 +68,7 @@ En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 - Inundaciones
 
 - Índices de Vegetación
-![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/Image%202020-01-01.png) ![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/RVI%20image%202020-03-13.png)
+![image]
 # Referencias bibliográficas
 
 - Gimeno Martínez, N. (1 Abril, 2019). ¿Qué es un SAR? *Instituto Nacional de Técnica Aeroespacial.* España. https://www.inta.es/INTA/es/blogs/ceit/BlogEntry_1554121012176
