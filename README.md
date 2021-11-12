@@ -67,10 +67,15 @@ En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 
 # Resultados y Conclusiones
 ### - Detección de Inundaciones
+Los resultados finales de la detección de inundaciones en GEE, son los siguientes:
 
 ![image](Antes_Después.png)
 
 ![image](Inundaciones.png)
+
+En la primer imagen, vemos que al aplicar el filtro speckle a la polarización VV, se puede observar cómo se conservan los bordes pero además, se eliminan los píxeles blancos-grises que se observaban dentro de los cuerpos de agua. Como se explicó en clases el speckle homogeniza los cuerpos de agua. Realizar este paso es fundamental para obtener un resultado final más prolijo y preciso como lo veremos más adelante. En cuanto a lo que vemos en la imagen, podemos relacionar que las áreas donde ocurren o pueden ocurrir potenciales inundaciones son zonas cercanas a los ríos y cuerpos de agua y pequeñas llanuras pero también se relacionan a suelos descubiertos o cultivos donde el suelo ha perdido su capacidad de infiltración por las actividades principalmente agrícolas y agropecuarias que se desarrollan en la región. 
+
+En la segunda imagen, se muestran las diferencias y el resultado final. En las diferencias, ya podemos visualizar las inundaciones. Esta es una proporción del antes y el después de las inundaciones con el filtro de speckle. Se dividen entre ellas. Y los valores se intercambian, ahora las zonas claras identifican las inundaciones. Al utilizar el “Inspector” para conocer los valores de la diferencia en las zonas claras, estos tienen una orientación positiva.El resultado final se obtiene utilizando un umbral basado en los resultados de las diferencias. Lo que permite marcar en color azul las zonas con valores superiores a 1.80, estas serán las inundaciones.  Esto facilita y vuelve más amigable la visualización. Como se mencionó anteriormente, vemos cómo los cauces de los ríos, los lagos y otros cuerpos de agua se desbordan. 
 
 ### - Índices de Vegetación
 ![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/Resultados%20RVI.png)
