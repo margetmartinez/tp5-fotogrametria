@@ -57,8 +57,8 @@ El SAR es uno de los sensores que se utilizan para obtener imágenes de la super
 
 En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 
-# Flujo de trabajo: Inundaciones
-
+# Flujo de trabajo: Detección de Inundaciones
+![image](Flujo de Trabajo Inundaciones.png)
 
 # Flujo de trabajo: Índice de Vegetación
 ![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/Flujo%20de%20trabajo%20RVI.png)
