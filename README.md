@@ -67,7 +67,7 @@ En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 
 # Resultados y Conclusiones
 ### - Detección de Inundaciones
-Los resultados finales de la detección de inundaciones en GEE, son los siguientes:
+Los resultados finales de la detección de inundaciones en GEE, son principalmente los siguientes:
 
 ![image](Antes_Después.png)
 
