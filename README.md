@@ -70,6 +70,8 @@ En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 - Índices de Vegetación
 ![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/Resultados%20RVI.png)
 
+Las imágenes anteriores corresponden a los índices de vegetación correspondientes para las fechas "2020-02-01" y "2022-03-13" respectivamente. Respecto a ellas podemos saber que los valores de los índices son mayores en la primera imagen. Esto podemos saberlo gracias a el inspector de GEE, el cual nos permite observar los valores de las constantes para cada pixel. Lo que vendría a equivaler al valor del índice de vegetación. Entre más cercano a 1 quiere decir que existe mayor cantidad de vegetación. Lo que se puede observar fácilmente en los tonos (colores) de cada pixel, entre más claros (hacia verde en este caso), más cercano a 1 se encuentra. Por otro lado, se observan resultados y valores menores en la segunda imagen. Esto puede deberse a periodos de cosecha, donde se corta la vegetación en etapa madura (en este caso debido a las plantaciones de caña).  
+
 # Referencias bibliográficas
 
 - Gimeno Martínez, N. (1 Abril, 2019). ¿Qué es un SAR? *Instituto Nacional de Técnica Aeroespacial.* España. https://www.inta.es/INTA/es/blogs/ceit/BlogEntry_1554121012176
