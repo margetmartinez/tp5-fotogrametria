@@ -66,7 +66,7 @@ En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 
 
 # Resultados y Conclusiones
-### - Inundaciones
+### - Detección de Inundaciones
 
 ![image](Antes_Después.png)
 
