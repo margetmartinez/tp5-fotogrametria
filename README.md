@@ -4,7 +4,7 @@
 
 # Definición de conceptos
 
-## - Microondas
+## Microondas
 
 Según lo visto en clase, las microondas son un tipo de onda electromagnética perteneciente al espectro electromagnético. Generalmente tiene frecuencias entre 300 Mhz y 30 Ghz. Están situadas entre los rayos infrarrojos (cuya frecuencia es mayor) y las ondas de radio convencionales. Y la longitud de onda va aproximadamente desde 1 mm hasta 30 cm.
 
@@ -21,7 +21,7 @@ A continuación, se presentan ilustraciones para ejemplificar mejor el concepto:
 
 La imagen nos ilustra la ubicación de las ondas de microondas en el espectro electromagnético. Las ventanas atmosféricas o bandas son una de las principales razones de la existencia de la teledetección.
 
-## - Retrodispersión y Constante dieléctrica
+## Retrodispersión y Constante dieléctrica
 
 De acuerdo a lo visto en clase, la retrodispersión es lo que mide el sensor SAR. Esta es la energía de microondas que regresa al sensor SAR luego de interactuar con la superficie. Es la energía reflejada hacia el radar nuevamente. Por lo que la intensidad de la retrodispersión está relacionada directamente con el tipo de cobertura y las características que tenga esta. Por lo que al saber la intensidad de esta se puede evaluar el estado de las coberturas y las características de esta. Esta puede ser especular (superficies lisas/agua abierta), por volumen (dosel del bosque), por doble rebote (bosques/infraestructura) y rugosa (zonas agrícolas). 
 
@@ -35,10 +35,15 @@ Por otro lado, la constante dieléctrica es un parámetro de cobertura que indic
 
 Se muestra el funcionamiento de la constante dieléctrica, siendo las flechas grises, energía reflejada con menor intensidad debido a las características de la superficie.
 
-## - RADAR de Apertura Sintética
+## RADAR de Apertura Sintética
 
 El SAR es uno de los sensores que se utilizan para obtener imágenes de la superficie terrestre. Este envía pulsos electromagnéticos a la tierra con el fin de captar estas ondas una vez reflejadas por la superficie y con ello obtener imágenes del área que llega a iluminar. Este sensor no necesita otras fuentes de iluminación como la luz solar, que se necesita en los sensores ópticos. Por lo que se pueden operar las 24 horas del día y las ondas se encuentran en el espectro de las microondas. Pueden verse afectadas por la humedad. Por otro lado, una de sus características distintivas es la consecución de altas resoluciones en la dirección del movimiento del sensor mediante la síntesis de una antena de grandes dimensiones a partir de una antena real más pequeña.
 
 ![image](https://github.com/margetmartinez/tp5-fotogrametria/blob/main/SAR.png)
 
+En esta imagen se puede observar la geometría en la que consiste un sensor SAR.
 
+# Flujo de trabajo: Inundaciones
+
+
+# Flujo de trabajo: Índice de Vegetación
